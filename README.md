@@ -1,0 +1,2 @@
+# Autonomous-Navigation-System
+Implementation of ROS based navigation system consisting of real-time traffic signal classification using a camera and transform library coordinates using the Nearest Neighbour Algorithm to create a navigation track. The control is implemented through PID, Yaw Controller, Pure Pursuit Algorithm, and Low pass filter for Carla simulator and a DC gear motor based electric cart.
